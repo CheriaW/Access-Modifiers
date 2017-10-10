@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Access Modifiers\Access Modifiers\bin\Debug\Access Modifiers.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Access Modifiers\Access Modifiers\bin\Debug\Access Modifiers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Access Modifiers\Access Modifiers\bin\Debug\Access Modifiers.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.pdb
